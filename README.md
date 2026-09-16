@@ -10,7 +10,7 @@ This repository contains the code and analysis for a data science project focuse
 
 Plain XGBoost	train -> 0.864	 test -> 0.534<br>
 GridSearchCV Tuned	 train -> 0.628 test ->	0.605<br>
-RandomizedSearchCV Tuned	train -> 0.633 test ->0.595
+RandomizedSearchCV Tuned	train -> 0.633 test ->0.595.
 
 # datasets
 
