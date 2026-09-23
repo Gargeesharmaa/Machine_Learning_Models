@@ -5,7 +5,7 @@ This repository contains my machine learning projects, ranging from beginner-lev
 # Big Mart Sales Prediction Model:
 
 This repository contains the code and analysis for a data science project focused on predicting 'Outlet_Item_Sales'. It includes data preprocessing, exploratory data analysis, machine learning model development  XGBoost, hyperparameter tuning, and model evaluation. The goal is to build a robust predictive model and understand key factors influencing Outlet_Item_Sales
-
+bnza
 ## Model Type	R2 Score (Training)	R2 Score (Testing)
 
 Plain XGBoost	train -> 0.864	 test -> 0.534<br>
