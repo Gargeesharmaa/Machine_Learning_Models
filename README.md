@@ -13,7 +13,6 @@ GridSearchCV Tuned	 train -> 0.628 test ->	0.605<br>
 RandomizedSearchCV Tuned	train -> 0.633 test ->0.595.
 
 # datasets
-ss
 https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 https://www.kaggle.com/ninzaami/loan-predication
 https://www.kaggle.com/datasets/kazanova/sentiment140
